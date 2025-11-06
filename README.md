@@ -55,7 +55,7 @@ A comprehensive collection of algorithm problems and solutions using hash-based 
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/hashmap-interview-prep.git
+git clone https://github.com/JanakPanchal/Hash-Map-Hash-Set-Interview-Questions.git
 
 # Run any solution
 python easy/two_sum.py
